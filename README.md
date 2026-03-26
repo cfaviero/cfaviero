@@ -36,5 +36,3 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfaviero&show_icons=true&theme=dark)
